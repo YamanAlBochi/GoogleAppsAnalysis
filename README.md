@@ -4,7 +4,7 @@ Google Play-Store Applications Data Analysis Project:
 There are more than 3.04 million apps found on Google Play Store. In this project I analyzed various apps found on the play store with the help of different python libraries.
 
 2. Data Exploration:
-After loading the dataset, we look for the exploration, we need to check and see that the dataset is ready for performing several exploration operations or not, so I look at the Data structure and the manner in which the data is organized. To figure out if we have any missing value or Nan value in our Dataset, I used the isnull() function.
+After loading the dataset, we look for the exploration, we need to check and see that the dataset is ready for performing several exploration operations or not, so I look at the Data structure and the manner in which the data is organized. To figure out if we have any missing value or NaN value in our Dataset, I used the isnull() function.
 
 3. Data Preparation and Cleaning:
 Data preparation and Cleaning; is the process of cleaning and transforming raw data prior to processing and analysis. It is an important step prior to processing and often involves reformatting data, making corrections to data, and the combining of data sets to enrich data. The dataset contained many Null or missing values. The column Rating, Type , Content Rating , Current Ver , andAndroid Ver contains 1474, 1, 1, 8, and 3 missing values respectively.
