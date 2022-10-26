@@ -1,4 +1,4 @@
-Google Play-Store Applications Data Analysis Project
+Google Play-Store Applications Data Analysis Project:
 
 1. Importing all the necessary Libararies: 
 There are more than 3.04 million apps found on Google Play Store. In this project I analyzed various apps found on the play store with the help of different python libraries.
