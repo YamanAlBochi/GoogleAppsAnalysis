@@ -1,7 +1,7 @@
 Google Play-Store Applications Data Analysis Project:
 
 1. Importing all the necessary Libararies: 
-There are more than 3.04 million apps found on Google Play Store. In this project I analyzed various apps found on the play store with the help of different python libraries..........
+There are more than 3.04 million apps found on Google Play Store. In this project I analyzed various apps found on the play store with the help of different python libraries.........
 
 2. Data Exploration:
 After loading the dataset, we look for the exploration, we need to check and see that the dataset is ready for performing several exploration operations or not, so I look at the Data structure and the manner in which the data is organized. To figure out if we have any missing value or NaN value in our Dataset, I used the isnull() function.
